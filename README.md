@@ -202,6 +202,6 @@ f1_score = evaluator_f1.evaluate(predictions)
 
 ## 👨‍💻 Author
 
-Built with ❤️ using Apache Spark by [Your Name]  
+Built with ❤️ using Apache Spark by Madhan Mannem
 Spring 2025 — UNC Charlotte
 
